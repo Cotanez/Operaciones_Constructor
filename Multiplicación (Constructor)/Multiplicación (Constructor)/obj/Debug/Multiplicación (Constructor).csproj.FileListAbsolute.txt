@@ -1,0 +1,11 @@
+C:\Programación orienrada a objetos\Multiplicación (Constructor)\Multiplicación (Constructor)\bin\Debug\Multiplicación (Constructor).exe.config
+C:\Programación orienrada a objetos\Multiplicación (Constructor)\Multiplicación (Constructor)\bin\Debug\Multiplicación (Constructor).exe
+C:\Programación orienrada a objetos\Multiplicación (Constructor)\Multiplicación (Constructor)\bin\Debug\Multiplicación (Constructor).pdb
+C:\Programación orienrada a objetos\Multiplicación (Constructor)\Multiplicación (Constructor)\obj\Debug\Multiplicación (Constructor).csproj.AssemblyReference.cache
+C:\Programación orienrada a objetos\Multiplicación (Constructor)\Multiplicación (Constructor)\obj\Debug\Multiplicación (Constructor).csproj.SuggestedBindingRedirects.cache
+C:\Programación orienrada a objetos\Multiplicación (Constructor)\Multiplicación (Constructor)\obj\Debug\Multiplicación__Constructor_.Form1.resources
+C:\Programación orienrada a objetos\Multiplicación (Constructor)\Multiplicación (Constructor)\obj\Debug\Multiplicación__Constructor_.Properties.Resources.resources
+C:\Programación orienrada a objetos\Multiplicación (Constructor)\Multiplicación (Constructor)\obj\Debug\Multiplicación (Constructor).csproj.GenerateResource.cache
+C:\Programación orienrada a objetos\Multiplicación (Constructor)\Multiplicación (Constructor)\obj\Debug\Multiplicación (Constructor).csproj.CoreCompileInputs.cache
+C:\Programación orienrada a objetos\Multiplicación (Constructor)\Multiplicación (Constructor)\obj\Debug\Multiplicación (Constructor).exe
+C:\Programación orienrada a objetos\Multiplicación (Constructor)\Multiplicación (Constructor)\obj\Debug\Multiplicación (Constructor).pdb

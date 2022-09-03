@@ -1,0 +1,22 @@
+C:\Programación orienrada a objetos\Suma (Constructor)\Suma (Constructor)\bin\Debug\Suma (Constructor).exe.config
+C:\Programación orienrada a objetos\Suma (Constructor)\Suma (Constructor)\bin\Debug\Suma (Constructor).exe
+C:\Programación orienrada a objetos\Suma (Constructor)\Suma (Constructor)\bin\Debug\Suma (Constructor).pdb
+C:\Programación orienrada a objetos\Suma (Constructor)\Suma (Constructor)\obj\Debug\Suma (Constructor).csproj.AssemblyReference.cache
+C:\Programación orienrada a objetos\Suma (Constructor)\Suma (Constructor)\obj\Debug\Suma (Constructor).csproj.SuggestedBindingRedirects.cache
+C:\Programación orienrada a objetos\Suma (Constructor)\Suma (Constructor)\obj\Debug\Suma__Constructor_.Form1.resources
+C:\Programación orienrada a objetos\Suma (Constructor)\Suma (Constructor)\obj\Debug\Suma__Constructor_.Properties.Resources.resources
+C:\Programación orienrada a objetos\Suma (Constructor)\Suma (Constructor)\obj\Debug\Suma (Constructor).csproj.GenerateResource.cache
+C:\Programación orienrada a objetos\Suma (Constructor)\Suma (Constructor)\obj\Debug\Suma (Constructor).csproj.CoreCompileInputs.cache
+C:\Programación orienrada a objetos\Suma (Constructor)\Suma (Constructor)\obj\Debug\Suma (Constructor).exe
+C:\Programación orienrada a objetos\Suma (Constructor)\Suma (Constructor)\obj\Debug\Suma (Constructor).pdb
+C:\Programación orientada a objetos\Suma (Constructor)\Suma (Constructor)\bin\Debug\Suma (Constructor).exe.config
+C:\Programación orientada a objetos\Suma (Constructor)\Suma (Constructor)\bin\Debug\Suma (Constructor).exe
+C:\Programación orientada a objetos\Suma (Constructor)\Suma (Constructor)\bin\Debug\Suma (Constructor).pdb
+C:\Programación orientada a objetos\Suma (Constructor)\Suma (Constructor)\obj\Debug\Suma (Constructor).csproj.AssemblyReference.cache
+C:\Programación orientada a objetos\Suma (Constructor)\Suma (Constructor)\obj\Debug\Suma (Constructor).csproj.SuggestedBindingRedirects.cache
+C:\Programación orientada a objetos\Suma (Constructor)\Suma (Constructor)\obj\Debug\Suma__Constructor_.Form1.resources
+C:\Programación orientada a objetos\Suma (Constructor)\Suma (Constructor)\obj\Debug\Suma__Constructor_.Properties.Resources.resources
+C:\Programación orientada a objetos\Suma (Constructor)\Suma (Constructor)\obj\Debug\Suma (Constructor).csproj.GenerateResource.cache
+C:\Programación orientada a objetos\Suma (Constructor)\Suma (Constructor)\obj\Debug\Suma (Constructor).csproj.CoreCompileInputs.cache
+C:\Programación orientada a objetos\Suma (Constructor)\Suma (Constructor)\obj\Debug\Suma (Constructor).exe
+C:\Programación orientada a objetos\Suma (Constructor)\Suma (Constructor)\obj\Debug\Suma (Constructor).pdb
