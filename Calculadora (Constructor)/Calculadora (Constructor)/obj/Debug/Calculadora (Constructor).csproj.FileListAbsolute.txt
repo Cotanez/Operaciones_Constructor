@@ -1,0 +1,11 @@
+C:\Programación orienrada a objetos\Calculadora (Constructor)\Calculadora (Constructor)\bin\Debug\Calculadora (Constructor).exe.config
+C:\Programación orienrada a objetos\Calculadora (Constructor)\Calculadora (Constructor)\bin\Debug\Calculadora (Constructor).exe
+C:\Programación orienrada a objetos\Calculadora (Constructor)\Calculadora (Constructor)\bin\Debug\Calculadora (Constructor).pdb
+C:\Programación orienrada a objetos\Calculadora (Constructor)\Calculadora (Constructor)\obj\Debug\Calculadora (Constructor).csproj.AssemblyReference.cache
+C:\Programación orienrada a objetos\Calculadora (Constructor)\Calculadora (Constructor)\obj\Debug\Calculadora (Constructor).csproj.SuggestedBindingRedirects.cache
+C:\Programación orienrada a objetos\Calculadora (Constructor)\Calculadora (Constructor)\obj\Debug\Calculadora__Constructor_.Form1.resources
+C:\Programación orienrada a objetos\Calculadora (Constructor)\Calculadora (Constructor)\obj\Debug\Calculadora__Constructor_.Properties.Resources.resources
+C:\Programación orienrada a objetos\Calculadora (Constructor)\Calculadora (Constructor)\obj\Debug\Calculadora (Constructor).csproj.GenerateResource.cache
+C:\Programación orienrada a objetos\Calculadora (Constructor)\Calculadora (Constructor)\obj\Debug\Calculadora (Constructor).csproj.CoreCompileInputs.cache
+C:\Programación orienrada a objetos\Calculadora (Constructor)\Calculadora (Constructor)\obj\Debug\Calculadora (Constructor).exe
+C:\Programación orienrada a objetos\Calculadora (Constructor)\Calculadora (Constructor)\obj\Debug\Calculadora (Constructor).pdb
